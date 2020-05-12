@@ -1,5 +1,7 @@
 ## Curso git desde cero
 
+Sistena de control de versiones
+
 cambios nuevos de la segunda clase
 
 ## tercer cambio de la segunda clase
