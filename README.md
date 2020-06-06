@@ -1,4 +1,4 @@
-## Curso git desde cero
+# Curso git desde cero
 
 Sistena de control de versiones
 
@@ -11,4 +11,5 @@ se hace cualquier texto para el tercer cambiod de la segunda clase
 ## segundo cambio de la segunda clase
 cualquier texto para hacer cambios antes de un commit
 
-Esta líena fue creada en la rama master
+### aportes desde otro usuario
+este texto fuer aportado desde otra carppeta
